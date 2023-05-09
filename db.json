@@ -1,0 +1,42 @@
+{
+  "exercises": [
+    {
+      "name": "Supino reto",
+      "description": "Deite no banco e levante a barra até a extensão total dos braços.",
+      "sets": 4,
+      "reps": 10,
+      "rest": 60
+    },
+    {
+      "name": "Agachamento",
+      "description": "Posicione a barra atrás do pescoço e agache até as pernas formarem um ângulo de 90 graus.",
+      "sets": 3,
+      "reps": 12,
+      "rest": 90
+    },
+    {
+      "name": "Levantamento terra",
+      "description": "Agache e segure a barra com as mãos. Levante a barra até a extensão total dos braços.",
+      "sets": 3,
+      "reps": 8,
+      "rest": 120
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  } 
+}

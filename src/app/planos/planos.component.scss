@@ -1,0 +1,22 @@
+	/* Estilo CSS para a tabela */
+	table {
+	    border-collapse: collapse;
+	    width: 100%;
+	}
+
+	th,
+	td {
+	    padding: 8px;
+	    text-align: left;
+	    border-bottom: 1px solid #ddd;
+	}
+
+	th {
+	    background-color: #f2f2f2;
+	    color: #333;
+	}
+
+	#titulor {
+	    text-align: center;
+
+	}
